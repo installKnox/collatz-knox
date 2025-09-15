@@ -67,3 +67,5 @@ The **Collatz conjecture** (also known as the *3x+1 problem*) is an unsolved pro
 * Repeat indefinitely.
 
 The conjecture asks whether this sequence always eventually reaches 1. Despite its simple rules, it has remained unsolved since it was first introduced by **Lothar Collatz** in 1937. This project provides a tool to experimentally explore very large seeds and monitor for potential non‑1 cycles.
+
+by Knox @installKnox // ig @doksan.8
